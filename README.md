@@ -1,4 +1,4 @@
-for virtual running 💻💻💻
+to see on the web💻💻💻
 
 https://superheoresapp.herokuapp.com/login
 
